@@ -1,5 +1,5 @@
 ﻿CountryName,PlatformName,VendorName,GameCode,Bet,TmpName,HighTableName,NormalTableName,LowTableName
-0,0,0,40C,10000,test,97,97,97
+0,0,0,40C,10000,test,100,97,88
 0,0,0,40C,20000,test,H1,H1,H1
 0,0,0,40C,30000,test,H2,H2,H2
 0,0,0,40C,40000,test,H3,H3,H3
